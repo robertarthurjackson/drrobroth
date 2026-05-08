@@ -9,3 +9,6 @@
 
 # Logs
 *.log
+
+# Claude project notes (handoff, scratch) — keep private
+.claude/
