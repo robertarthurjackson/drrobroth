@@ -1,8 +1,10 @@
 # Dr. Rob Roth, ND — Landing Page
 
+**Live site: [drrobroth.com](https://drrobroth.com)**
+
 A static, single-page landing site for Dr. Rob Roth, ND (Naturopathic Doctor)
-practicing at Marda Loop Naturopathic & Wellness Clinic (MLNWC) on Mondays
-in-person, and offering virtual consultations on Tuesdays.
+practicing at Marda Loop Naturopathic & Wellness Clinic (MLNWC) on Mondays and
+Tuesdays in-person, and offering virtual consultations on Wednesdays.
 
 ```
 mlnwc-landing/
